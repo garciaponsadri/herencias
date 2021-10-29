@@ -1,13 +1,13 @@
-# Adrià García Pons : Práctica Typescript
-_Fecha: 08/10/2021_
+# Adrià García Pons : Práctica Herencias
+_Fecha: 30/10/2021_
 
 ### Información General 📋
-* Primera práctica Typescript
+* Primera Herencias
 * Las explicaciones del código están documentadas en el mismo código pero también las encontraremos dentro del PDF 📖   
 * Las capturas de cada función (desde la vista del usuario que las usa), están también en el PDF.
 
 ### Advertencia ⚠️
-* En esta práctica habrá cosas que demos por hecho de las explicadas en la anterior práctica [Anterior Práctica](https://github.com/garciaponsadri/PrimerProyecto)
+* En esta práctica habrá cosas que demos por hecho de las explicadas en la primera práctica [Práctica Github](https://github.com/garciaponsadri/PrimerProyecto) y de la anterior [Práctica Typescript(https://github.com/garciaponsadri/ProyectoTypescript)
 
 ### Estructura de archivos 🛠️:
 
