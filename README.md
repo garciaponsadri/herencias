@@ -7,7 +7,7 @@ _Fecha: 30/10/2021_
 * Las capturas de cada función (desde la vista del usuario que las usa), están también en el PDF.
 
 ### Advertencia ⚠️
-* En esta práctica habrá cosas que demos por hecho de las explicadas en la primera práctica [Práctica Github](https://github.com/garciaponsadri/PrimerProyecto) y de la anterior [Práctica Typescript(https://github.com/garciaponsadri/ProyectoTypescript)
+* En esta práctica habrá cosas que demos por hecho de las explicadas en la primera práctica [Práctica Github](https://github.com/garciaponsadri/PrimerProyecto) y de la anterior [Práctica Typescript](https://github.com/garciaponsadri/ProyectoTypescript)
 
 ### Estructura de archivos 🛠️:
 
